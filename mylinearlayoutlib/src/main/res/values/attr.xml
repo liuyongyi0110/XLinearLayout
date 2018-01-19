@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="myLinearLayout">
+        <attr name="titlecolor" format="color"/>
+        <attr name="titlesize" format="dimension"/>
+        <attr name="titletext" format="string"/>
+        <attr name="headerhasimage" format="boolean"/>
+        <attr name="headerimageres" format="reference|color"/>
+        <attr name="lasthasimage" format="boolean"/>
+        <attr name="laseimage" format="reference|color"/>
+
+    </declare-styleable>
+</resources>
